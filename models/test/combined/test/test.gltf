@@ -1,0 +1,241 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 284,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAMAAAACAAQABQAGAAcABgAFADNv47wAS5K9mZ0MvDNv47wAS5K9zVylvIVb+LzeXa69zVylvIVb+LzeXa69mZ0MvKQcujzN3Zu9cJ0MvDNv47wAS5K9mZ0MvGYqlDz7xrm9cJ0MvIVb+LzeXa69mZ0MvDKre79WkTs+AAAAADKre79WkTs+AAAAADKre79WkTs+AAAAADKre79WkTs+AAAAACCNDrQXqRkzAACAPyCNDrQXqRkzAACAPyCNDrQXqRkzAACAPyCNDrQXqRkzAACAP4xkST8P8gA/jGRJPw/yAD9bx00//vQIP1vHTT/+9Ag/Wu9kP37J3D6MZEk/D/IAP4ejaD84ce8+W8dNP/70CD8="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 24,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 96,
+            "byteOffset": 28,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 96,
+            "byteOffset": 124,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 64,
+            "byteOffset": 220,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 12,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 8,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                -0.0303170774132013,
+                -0.0907115563750267,
+                -0.0201858524233103
+            ],
+            "max": [
+                0.0227187350392342,
+                -0.0714321136474609,
+                -0.0085824579000473
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 8,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 8,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "Brake",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.301511347293854
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "polySurface1",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Brake",
+            "translation": [
+                0.858006715774536,
+                0.327938228845596,
+                1.06439757347107
+            ],
+            "rotation": [
+                1.54543133845664e-08,
+                0.70710676908493,
+                -1.54543116082095e-08,
+                0.707106828689575
+            ],
+            "scale": [
+                1.06942653656006,
+                1.06942653656006,
+                1.40040850639343
+            ],
+            "children": [
+                2,
+                3
+            ]
+        },
+        {
+            "name": "polySurface1",
+            "translation": [
+                -1.11290432425193e-09,
+                -6.44343856048835e-10,
+                -0.0112569099292159
+            ],
+            "rotation": [
+                4.03221912968741e-24,
+                -6.61744490042422e-24,
+                -3.94430452610506e-31,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "transform1",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                4.03221912968741e-24,
+                -6.61744490042422e-24,
+                -3.94430452610506e-31,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ]
+}
