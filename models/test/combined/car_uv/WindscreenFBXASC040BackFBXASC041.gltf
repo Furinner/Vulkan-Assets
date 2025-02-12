@@ -1,0 +1,199 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 676,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAMABAAFAAUABgADAAYABQAHAAEAAAAIAAcACAAGAAgABwABAAkACgALAAQADAANAAQAAwAOAAwABAAOAA0ADwAQAAoACQARAA8ADQAMABAACwAKAAsAEAAPAC/Q8byeiMo9qaikPLjCq7w4hso9GSEFPC/Q8byeiMo9pCAFPItQpLuug8o9pgK1PAAAAACJg8o9pCEFPJRQpLuug8o9iiEFPBMfRbyZhMo9Bz+yPB4fRbyZhMo9RyEFPLjCq7w4hso9cwqtPC/Q8TyeiMo9qaikPLjCqzw4hso9GSEFPLjCqzw4hso9cwqtPItQpDuug8o9pgK1PJRQpDuug8o9iiEFPAAAAACJg8o9xQ23PBMfRTyZhMo9Bz+yPB4fRTyZhMo9RyEFPC/Q8TyeiMo9pCAFPB8CCDr+/38/AAAAAH8D4Dn+/38/AAAAAB8CCDr+/38/AAAAAAABADkAAIA/AACAJwAAAAAAAIA/AACAJ0ABIDkAAIA/AACAJ0ACkDn//38///9/J0ACkDn//38///9/J38D4Dn+/38/AAAAAB8CCLr+/38/AAAAAH8D4Ln+/38/AAAAAH8D4Ln+/38/AAAAAAABALkAAIA/AACAJ0ABILkAAIA/AACAJwAAAAAAAIA/AACAJ0ACkLn//38///9/J0ACkLn//38///9/Jx8CCLr+/38/AAAAAAAAAAAAAAAAAACAPzBTFD4AAIA/AAAAAAAAAAD4mdQ+AACAPwAAAD8AAIA/5ILUPgAAAADI4Jc+AACAPyaolz4AAAAAqOMUPgAAAAAAAIA/AACAPzTrWj8AAAAAFsdaPwAAAAAEsxU/AACAP46+FT8AAAAAAAAAPwAAAACcDzQ/AACAP+0rND8AAIA/AACAPw=="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 96,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 216,
+            "byteOffset": 100,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 216,
+            "byteOffset": 316,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 144,
+            "byteOffset": 532,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 48,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 18,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                -0.0295182149857283,
+                0.0988836959004402,
+                0.00812545791268349
+            ],
+            "max": [
+                0.0295182149857283,
+                0.0988933891057968,
+                0.022345433011651
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 18,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 18,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "WindscreenGlassGrey",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.301511347293854
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Windscreen(Back)",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Windscreen(Back)",
+            "translation": [
+                0.0,
+                0.827104151248932,
+                0.868180990219116
+            ],
+            "rotation": [
+                -0.70710676908493,
+                0.0,
+                0.0,
+                0.70710676908493
+            ],
+            "scale": [
+                15.2660961151123,
+                15.2660961151123,
+                15.2660961151123
+            ],
+            "mesh": 0
+        }
+    ]
+}
