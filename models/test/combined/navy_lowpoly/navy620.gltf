@@ -1,0 +1,287 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 704,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAEAAAADAAQABQAGAAUABAAHAAgACQAKAAgACgALAAwADQAOAAwADgAPABAAEQASABAAEgATAPNx0T6h+fs9qSNnPvNx0T7Uef49+N15PvNx0T4mavw9EuF5PvNx0T5PCf49jyBnPreyxz6h+fs9qSNnPreyxz7Uef49+N15Preyxz5PCf49jyBnPreyxz4mavw9EuF5PvNx0T7Uef49+N15Preyxz7Uef49+N15Preyxz4mavw9EuF5PvNx0T4mavw9EuF5Preyxz7Uef49+N15PvNx0T7Uef49+N15PvNx0T5PCf49jyBnPreyxz5PCf49jyBnPvNx0T6h+fs9qSNnPreyxz6h+fs9qSNnPreyxz5PCf49jyBnPvNx0T5PCf49jyBnPvQENT9p7ge8wgE1v/IENT/jSgg8wAE1P/IENT/jSgg8wAE1P/QENT9p7ge8wgE1v/QENb8s5Qe8wgE1v/IENb8eVAg8wAE1P/QENb8s5Qe8wgE1v/IENb8eVAg8wAE1P/IENT/jSgg8wAE1P/IENb8eVAg8wAE1P/IENb8eVAg8wAE1P/IENT/jSgg8wAE1PwAAAAB++38/7iBAvAAAAAB++38/7iBAvAAAAAB++38/7iBAvAAAAAB++38/7iBAvPQENT9p7ge8wgE1v/QENb8s5Qe8wgE1v/QENb8s5Qe8wgE1v/QENT9p7ge8wgE1v2JHNz+LD00/hIw3P4MmSD9iRzc/gyZIP4SMNz+LD00/bEw1P4MmSD+NkTU/iw9NP42RNT+DJkg/bEw1P4sPTT9IWSk/JnVRP0hZKT+cWUw/KBQpP5xZTD8oFCk/JnVRP0eAET9kKD0/R4ARP+xDQj9OaRY/7ENCP05pFj9kKD0/T+QuP1fyVz9P5C4/ztZSPzGfLj/O1lI/MZ8uP1fyVz8="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 60,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 240,
+            "byteOffset": 64,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 240,
+            "byteOffset": 304,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 160,
+            "byteOffset": 544,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 30,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 20,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.390035361051559,
+                0.123034723103046,
+                0.225710138678551
+            ],
+            "max": [
+                0.409072488546371,
+                0.124255806207657,
+                0.244022637605667
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 20,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 20,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "lambert1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.400000005960464,
+                    0.400000005960464,
+                    0.400000005960464,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:bowEscapeHatch_02",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTseriesTorpedoBoat",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTtordedoBoat_Polygon",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:bow",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:escapeHatch",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:bowEscapeHatch_02",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}

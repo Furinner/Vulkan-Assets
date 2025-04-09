@@ -1,0 +1,331 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 880,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAEAAAADAAMABAABAAUABgAHAAgABgAFAAgACQAKAAQAAwALAAwACwANAAsADAAEAAkACAAFAAkADgAKAA4ACQAPABAAEQASABEAEwASABQAEQAQABMAEQAVABUAFgATABcAFgAVAM8f4D4GFxo+n2eJPKS73z7gBx0+lD3SO6S73z4GFxo+n2eJPM8f4D7gBx0+lD3SO6S73z6GBh0+9BoRvaS73z7gBx0+lD3SO7nt3z4GFxo+hQpyPKS73z4GFxo+n2eJPLnt3z7dkxw+rmrMO6S73z6GBh0+9BoRvbnt3z4bkhw+u3kQvc8f4D6GBh0+9BoRvaS73z7UGRo+4RM7vc8f4D7UGRo+4RM7vbnt3z7UGRo+Zbo0vaS73z7UGRo+4RM7vbnt3z7UGRo+Zbo0vc8f4D6GBh0+9BoRvbnt3z4bkhw+u3kQvbnt3z7dkxw+rmrMO88f4D7UGRo+4RM7vc8f4D7gBx0+lD3SO7nt3z4GFxo+hQpyPM8f4D4GFxo+n2eJPEynYz+KquE+6EH6PS5rf7+AYH89HrrQvEynY7+KquE+6EH6PRVrfz8Zen89N7jQvKLIf7+zWbI8fsUOPS5rf7+AYH89HrrQvIy7qLXMcna/WI2KvkynY7+KquE+6EH6PYMQsDeupH2/aaAKvqLIf7+zWbI8fsUOPXdUzzaEz32/C6MFPq7Ifz9EMrI8xbwOPT9dar9fcsY+TyTdvSNeaj9cbcY+BTDdvcZ4CriXyna/phaIPj9dar9fcsY+TyTdvcZ4CriXyna/phaIPq7Ifz9EMrI8xbwOPXdUzzaEz32/C6MFPoMQsDeupH2/aaAKviNeaj9cbcY+BTDdvRVrfz8Zen89N7jQvIy7qLXMcna/WI2KvkynYz+KquE+6EH6PavpWz/ipBE/KB5cPztsFD8qHlw/4qQRP6rpWz87bBQ/KR5cPxamHz++M2Q/aCYUPwD5ZD9t6BE//fhkPw9fET8jUmQ/nTIUPxU0ZD9EYB8/mFJkP7NVHz+p6Vs/FqYfPyceXD/hZSI/q+lbP+JlIj8/+GQ/l7UhP0P4ZD8QICI/A4JaP1kPEj/VvVk/smQUP1bcWT88bxQ/4ttZP1aSHz8Aglo/46QRP369WT+Knh8/vIJaP4PcIT+6glo/4mUiPw=="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 108,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 400,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 688,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 54,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.436978459358215,
+                0.150478452444077,
+                -0.0456732548773289
+            ],
+            "max": [
+                0.437742680311203,
+                0.153350353240967,
+                0.0167730432003736
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 24,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "lambert1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.400000005960464,
+                    0.400000005960464,
+                    0.400000005960464,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:railing_10",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTseriesTorpedoBoat",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTtordedoBoat_Polygon",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:cabins",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:mainCabin",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:railings",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:mainCabin",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                7
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:railing_10",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}

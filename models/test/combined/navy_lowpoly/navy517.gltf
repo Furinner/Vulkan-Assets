@@ -1,0 +1,309 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 956,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAEAAAADAAQABQAGAAUABAAHAAgACQAKAAsADAAIAAwADQAOAAwACQAIAA8ACQAOAAkADAAOAAkAEAAKABAACQAPABEAEgATABQAFQARABUAFgAXABUAEgARABgAEgAXABIAFQAXABIAGQATABkAEgAYAE/BzD4Z6Bk9XpVOvk/BzD7X4Pk8ftlMvuSdzj5CbAs9brdNvrvkyj5CbAs9brdNvk/BzD4zO688YtJzvk/BzD6PKuk8Qo51vuSdzj7hMsw8U7B0vrvkyj7hMsw8U7B0vk/BzD6wPgc90BFivrvkyj6zhfE84DNhvk/BzD4Z6Bk9XpVOvk/BzD6PKuk8Qo51vrvkyj7hMsw8U7B0vk/BzD4zO688YtJzvk/BzD4FjtQ88FVgvk/BzD7X4Pk8ftlMvrvkyj5CbAs9brdNvk/BzD4FjtQ88FVgvuSdzj6zhfE84DNhvk/BzD7X4Pk8ftlMvk/BzD4zO688YtJzvuSdzj7hMsw8U7B0vk/BzD6PKuk8Qo51vk/BzD6wPgc90BFivk/BzD4Z6Bk9XpVOvuSdzj5CbAs9brdNvgAAAADGbm4+rfZ4PwAAAADGbm4+rfZ4PwAAAADGbm4+rfZ4PwAAAADGbm4+rfZ4PwAAAADAbm6+rvZ4vwAAAADAbm6+rvZ4vwAAAADAbm6+rvZ4vwAAAADAbm6+rvZ4v+QvdDa19ng/QW5uvgAAgL8J9la1QIkLtDRVQDa09ng/WW5uvqVcrza59ng/+21uvgAAgL/sXC81MZ5cNAgFNTSv9ni/qG5uPoo/sTWy9ni/fm5uPrES9jWy9ni/cG5uPgAAgL8x6JW29WsNtYo/sTWy9ni/fm5uPgAAgD9ZMNO0AHottLES9jWy9ni/cG5uPggFNTSv9ni/qG5uPgAAgD8pVcC0jbQptKVcrza59ng/+21uvuQvdDa19ng/QW5uvjRVQDa09ng/WW5uvgAAgD9qDKS1p8OHM5afLz+Ozvs+37ktP47O+z67rC4/CsL9PrusLj8a2/k+cYY5P0q0+z6woDc/SrT7PpWTOD++p/0+lZM4P9LA+T497Uk/xC6dPmP6SD8Wo50+LSZLP8xkpz5OtEg/yPiSPnLBRz8UbZM+kM5GP2Thkz5+B0g/YheePm1AST9oTag+TDNKPxTZpz4BlgE/aOyAPqCPAj8y+oA+ELsBPxzbbD7zcAE/QGuLPphqAj8IeYs+PWQDP86Giz5DiQM/7AeBPlyuAz80Em0+trQCP6T2bD4="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 120,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 312,
+            "byteOffset": 124,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 312,
+            "byteOffset": 436,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 748,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 60,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 26,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.396276324987411,
+                0.0213905330747366,
+                -0.239800482988358
+            ],
+            "max": [
+                0.403548359870911,
+                0.0375748611986637,
+                -0.200048416852951
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 26,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 26,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "lambert1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.400000005960464,
+                    0.400000005960464,
+                    0.400000005960464,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:propellerPipe_02",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTseriesTorpedoBoat",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTtordedoBoat_Polygon",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:stern",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:propellers",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:propeller_Center",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:propellerPipe_02",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}

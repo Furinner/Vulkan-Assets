@@ -1,0 +1,309 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 844,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAEAAAADAAQABQAGAAQABgAHAAgACQAKAAgACgALAAwADQAOAA8ADQAMABAAEQASABEAEAATABQAFQAWABUAFAAXAFx0tT6N1Y89GEqZvuFjtz694JA96XuYvjRftz7FZJA9dFmZvgl5tT6CUZA9jWyYvu6ctz6CV4U91hWYvhWytT5HyIQ9eQaYvmqttT5STIQ9BeSYvkKYtz6K24Q9YfOYvhWytT5HyIQ9eQaYvgl5tT6CUZA9jWyYvlx0tT6N1Y89GEqZvmqttT5STIQ9BeSYvuFjtz694JA96XuYvhWytT5HyIQ9eQaYvu6ctz6CV4U91hWYvgl5tT6CUZA9jWyYvjRftz7FZJA9dFmZvmqttT5STIQ9BeSYvlx0tT6N1Y89GEqZvkKYtz6K24Q9YfOYvjRftz7FZJA9dFmZvu6ctz6CV4U91hWYvkKYtz6K24Q9YfOYvuFjtz694JA96XuYvnhPnL0Z2Xw/ltULvnhPnL0Z2Xw/ltULvnhPnL0Z2Xw/ltULvnhPnL0Z2Xw/ltULvq5OnD0Z2Xy/4dULPq5OnD0Z2Xy/4dULPq5OnD0Z2Xy/4dULPq5OnD0Z2Xy/4dULPtyrML8iij492OE4P9yrML8iij492OE4P3A7OL/n8Bi+XZYtv3A7OL/n8Bi+XZYtv3M7OD9J8Rg+VJYtP9yrML8iij492OE4P3M7OD9J8Rg+VJYtP9yrML8iij492OE4P9arMD+biD693uE4v3A7OL/n8Bi+XZYtv3A7OL/n8Bi+XZYtv9arMD+biD693uE4v9arMD+biD693uE4v3M7OD9J8Rg+VJYtP9arMD+biD693uE4v3M7OD9J8Rg+VJYtP/mRBT+oYw4+8CUFP0xyEj4FmgU/fGgSPuIdBT9wbQ4+R6FgP9oipj5VqWA/biCkPjw1YD+IG6Q+MC1gP/Idpj5wTgU/AAz7PfMYBT8I9e493KQEP+h27z1Z2gQ/AI77Pd5bAj/YVRQ+jngBP2ysGj7CeQI/YGEaPqhaAT/soBQ++uNgP7bBsj6tAGA/cJavPsXiXz8unLI+4AFhP/i7rz7xXgc/gH7vPWG1Bj+YE/s9dSkHP4iV+z3b6gY/kPzuPQ=="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 72,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 76,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 364,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 652,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 36,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.354403376579285,
+                0.0645986944437027,
+                -0.299510598182678
+            ],
+            "max": [
+                0.358619153499603,
+                0.0707411542534828,
+                -0.296924382448196
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 24,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "lambert1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.400000005960464,
+                    0.400000005960464,
+                    0.400000005960464,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:fuelContainer_03",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTseriesTorpedoBoat",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTtordedoBoat_Polygon",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:stern",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:fuelContainers",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:fuelContainers_Right_00",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:fuelContainer_03",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}

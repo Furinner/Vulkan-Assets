@@ -1,0 +1,287 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 844,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAEAAAADAAQABQAGAAUABAAHAAgACQAKAAkACAALAAwADQAOAAwADgAPABAAEQASABAAEgATABQAFQAWABQAFgAXAPNx0T4vsAc+Q6eLvreyxz6hovw9x4mDvreyxz4vsAc+Q6eLvvNx0T6hovw9x4mDvvNx0T6ma/490EeDvvNx0T4vsAc+Q6eLvvNx0T6ylAg+TGWLvvNx0T6hovw9x4mDvreyxz4vsAc+Q6eLvreyxz6ma/490EeDvreyxz6ylAg+TGWLvreyxz6hovw9x4mDvvNx0T6ma/490EeDvreyxz6ma/490EeDvreyxz6hovw9x4mDvvNx0T6hovw9x4mDvreyxz6ma/490EeDvvNx0T6ma/490EeDvvNx0T6ylAg+TGWLvreyxz6ylAg+TGWLvvNx0T4vsAc+Q6eLvreyxz4vsAc+Q6eLvreyxz6ylAg+TGWLvvNx0T6ylAg+TGWLvgAAAADTs12/CAAAvwAAAADTs12/CAAAvwAAAADTs12/CAAAvwAAAADTs12/CAAAvwYFNT+ABLW+fMQcP+AENT+OBbU+W8Qcv+AENT+OBbU+W8QcvwYFNT+ABLW+fMQcPwcFNb9zBLU+fsQcv90ENb+aBbW+WcQcPwcFNb9zBLU+fsQcv90ENb+aBbW+WcQcPwYFNT+ABLW+fMQcP90ENb+aBbW+WcQcP90ENb+aBbW+WcQcPwYFNT+ABLW+fMQcPwAAAADTs10/CAAAPwAAAADTs10/CAAAPwAAAADTs10/CAAAPwAAAADTs10/CAAAP+AENT+OBbU+W8QcvwcFNb9zBLU+fsQcvwcFNb9zBLU+fsQcv+AENT+OBbU+W8QcvxkoEj+Z9js/u2gWPxDbNj8ZKBI/ENs2P7toFj+Z9js/lJU0Pz4cRT86zjY/bn9JPxwKNz/eXEk/tlk0P9A+RT+K5To/mRtFP+isOD/Mfkk/bCE7Pyw+RT8McTg/OVxJP5AlDz+7aVE/kCUPPzFOTD+w6Q4/MU5MP7DpDj+7aVE/EqguP6/HMD8SqC4/N+M1P67oMj834zU/rugyP6/HMD8Nbg4/zwY8Pw1uDj9E6zY/KjIOP0TrNj8qMg4/zwY8Pw=="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 72,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 76,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 288,
+            "byteOffset": 364,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 652,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 36,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.390035361051559,
+                0.123357065021992,
+                -0.272760480642319
+            ],
+            "max": [
+                0.409072488546371,
+                0.133379727602005,
+                -0.256407260894775
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 24,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 24,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "lambert1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.400000005960464,
+                    0.400000005960464,
+                    0.400000005960464,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:sternEscapeHatch_00",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTseriesTorpedoBoat",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:usNavyPTtordedoBoat_Polygon",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:stern",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:escapeHatch",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "USNavyPTTorpedoBoat_NURBS_Low_Poly__3DLegendary:sternEscapeHatch_00",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}
