@@ -1,0 +1,199 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 1220,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAMABAAFAAMABgAHAAgACQAKAAEAAAALAAwADQAOAAIAAQAPAA0AEAAOABEAEgATABEAEwAUABUAEwASAAoADwAHAAoAFgAIABcAGAAZABYACgAHABgAGgAZAAYAAwAFAA8AEwAVAA8ACgAQAA8ADQACAA8AEAANAA8AAQAbAAQAHAAdAAQAAwAeAAQAHgAcAB8ADwAVAB0ABwAfAAcAHQAcAAcADwAfAAcABgAaAAcAGAAWAAcAGgAYAAAAAD8AADRBZmZmPgAAAD9mZkpBPQqXPwAAAD9mZkpBZmZmPgAAAD9cjzJBCtf7wAAAAD9mZjJBhetlwQAAAD9mZjJBZmbawAAAAD9mZkpBZmbawAAAAD9cj1ZBCtf7wAAAAD+ZmTVBMzOXwAAAAD+ZmTVBAADwvwAAAD9mZkpBAADwvwAAAD8AADRBPQqXPwAAAD+ZmTVBMzMzvgAAAD9mZkpBMzMzvgAAAD+ZmTVBzcy8vwAAAD+dmaNBmZmZPwAAAD9mZkpBzcy8vwAAAD9mZkpBFK4rQQAAAD/NzKZBFK4rQQAAAD+dmaNBKVwrQQAAAD9mZkpBKVwrQQAAAD/NzKZB2kAXQAAAAD9mZkpBMzOXwAAAAD+ZmTVBAACkwAAAAD9mZkpBAACkwAAAAD+ZmTVBmZnNwAAAAD9mZkpBmZnNwAAAAD9mZkpBmZmZPwAAAD9cj1ZBhetdwQAAAD/NzKZBhetlwQAAAD9cjzJBhetdwQAAAD/NzKZBThvAwAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8A4McmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8AAMgmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAAAAAgL8A4McmAAAAAAAAgL8MzscmAAAAAAAAgL8MzscmAAAAACJ61T51F2o/XgvRPl9JbT8ietU+X0ltP/AM+z7h4mk/QJwMPwndaT86M/Y+Cd1pPzoz9j5fSW0/8Az7PmEFbz/sc+w+4VFqP3A53z7hUWo/cDnfPl9JbT9eC9E+dRdqP25V1z7hUWo/blXXPl9JbT8lXt0+4VFqP5rz0D5RFn8/JV7dPl9JbT+st6Q+X0ltP6y3pD4AAIA/cM+kPlEWfz9wz6Q+X0ltP0iNyz4AAIA/7HPsPl9JbT84T+4+4VFqPzhP7j5fSW0/71f0PuFRaj/vV/Q+X0ltP5rz0D5fSW0/MXMLP2EFbz9AnAw/AACAPzFzCz/h4mk/5GLyPgAAgD8="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 384,
+            "byteOffset": 196,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 384,
+            "byteOffset": 580,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 256,
+            "byteOffset": 964,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 96,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 32,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                0.5,
+                11.1499996185303,
+                -14.3699998855591
+            ],
+            "max": [
+                0.5,
+                20.8500003814697,
+                10.7299995422363
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 32,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 32,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "材质_1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.980392158031464,
+                    0.980392158031464,
+                    0.980392158031464,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.301511347293854
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "polySurface486",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "polySurface486",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.100000001490116,
+                0.100000001490116,
+                0.100000001490116
+            ],
+            "mesh": 0
+        }
+    ]
+}

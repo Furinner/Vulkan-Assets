@@ -1,0 +1,199 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.13.1",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 1060,
+            "uri": "data:application/octet-stream;base64,AAAAAAAAAQACAAMABAAFAAYABwAIAAkAAwAKAAsACQACAAEABgAMAAIACgAAAAIADAALAAwAAgABAAwACAANAA4ADwAQAA0ACwAMABEADQAIABIAEwAUABQAFQASABYAFwAVABgAEQAZABcAGAAQAA8AEgAVABAAGQAOABAAFQAXABUAEAAPABUAFAAWAAcADgAZAAgADAAGAAgAGQARABkACAAHABkAEAAYABoAAAAKAAUACgADAAoABQAaAAoAAgAJAHN9psAtbck/4XrUvtljpsAlls0/4XrUvtljpsAlls0/wvXovnN9psAtbck/o3D9vg2XpsA9RMU/o3D9vg2XpsA9RMU/wvXovkBKpsAcv9E/4XrUvqYwpsAU6NU/4XrUvqYwpsAU6NU/wvXovtljpsAlls0/o3D9vnN9psAtbck/wvXovkBKpsAcv9E/o3D9vkBKpsAcv9E/wvXovqYwpsAU6NU/o3D9vg0XpsAMEdo/4XrUvnP9pcAEOt4/4XrUvnP9pcAEOt4/wvXovg0XpsAMEdo/o3D9vtjjpcD8YuI/4XrUvkDKpcDri+Y/4XrUvkDKpcDri+Y/wvXovtjjpcD8YuI/wvXovkDKpcDri+Y/o3D9vtjjpcD8YuI/o3D9vnP9pcAEOt4/o3D9vg0XpsAMEdo/wvXovg2XpsA9RMU/4XrUvh/Tfr82BcQ9AAAAACHTfr+DBMQ9AAAAACHTfr+CBMQ9AAAAAB/Tfr83BcQ9AAAAAB3Tfr8JBsQ9AAAAAB3Tfr8JBsQ9AAAAACHTfr+DBMQ9AAAAACLTfr9mBMQ9AAAAACLTfr9mBMQ9AAAAACHTfr+DBMQ9AAAAAB/Tfr83BcQ9AAAAACHTfr+EBMQ9AAAAACHTfr+EBMQ9AAAAACLTfr9mBMQ9AAAAACHTfr+DBMQ9AAAAABHTfr/+CcQ9AAAAABnTfr8/B8Q9AAAAACHTfr+DBMQ9AAAAAA7Tfr+xCsQ9AAAAAB3Tfr8JBsQ9AAAAAC7Tfr+OAMQ9AAAAAB/Tfr83BcQ9AAAAAD7Tfr8U+8M9AAAAADDTfr+9/8M9AAAAACHTfr+EBMQ9AAAAACHTfr+CBMQ9AAAAAB3Tfr8JBsQ9AAAAAAAAYD8AAFI3AABAPwAAUjcAAEA/AAAAPwAAYD8u/38/wP9/Py7/fz/A/38/AAAAPwAAID8AAFI3AAAAPwAAUjcAAAA/AAAAPwAAQD8u/38/AABgPwAAAD8AACA/Lv9/PwAAID8AAAA/AAAAPy7/fz8AAMA+AABSNwAAgD4AAFI3AACAPgAAAD8AAMA+Lv9/PwAAAD4AAFI3SHaANgAAUjdIdoA2AAAAPwAAAD4AAAA/SHaANi7/fz8AAAA+Lv9/PwAAgD4u/38/AADAPgAAAD/A/38/AABSNw=="
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 192,
+            "byteOffset": 4,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 324,
+            "byteOffset": 196,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 324,
+            "byteOffset": 520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 216,
+            "byteOffset": 844,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 1,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.0
+            ]
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 96,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 27,
+            "bufferView": 2,
+            "byteOffset": 0,
+            "min": [
+                -5.20593881607056,
+                1.54114496707916,
+                -0.494999974966049
+            ],
+            "max": [
+                -5.18093872070312,
+                1.80114495754242,
+                -0.41499999165535
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 27,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 27,
+            "bufferView": 4,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "openPBR_shader1",
+            "alphaMode": "OPAQUE",
+            "doubleSided": false,
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Metallic/Roughness",
+                    "isTruePBR": true
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "nurbsToPoly1519",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 3,
+                        "POSITION": 2,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 1
+                }
+            ]
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [],
+            "samplers": []
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "nurbsToPoly1519",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ]
+}
